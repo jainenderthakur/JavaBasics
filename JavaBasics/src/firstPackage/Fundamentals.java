@@ -1,6 +1,6 @@
 package firstPackage;
 
-public class Fundamentals {
+public class Fundamentals extends StarPatterns{
 
 	static int a;
 	final int b=1;
